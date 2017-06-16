@@ -1,0 +1,27 @@
+.body{
+	background-image: url("../home.jpg");
+	background-repeat: no-repeat;
+	height: 600px;
+	width: 100%;
+	margin:0 auto;
+	text-align: center;
+	padding-top: 200px;
+	margin-top: 30px;
+}
+.body>.btn{
+	margin:15px;
+	padding:20px;
+	font-size: 20px;
+	width: 200px;
+	font-family: Georgia,serif;
+	font-weight: bold;
+	color: #0093ff;
+}
+.glyphicon{
+	color:#0093ff;
+}
+/*a{*/
+/*	text-decoration: none;*/
+/*	padding-left: 35px !important;*/
+/*	padding-right: 35px !important;*/
+/*}*/

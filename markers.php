@@ -1,4 +1,4 @@
-
+<?php
 <!DOCTYPE html>
 <head>
 	<title>Sanji</title>
@@ -10,10 +10,10 @@
 <body>
   <div class="container">
     <div class="body">
-       <button type="button" class="btn btn-default btn-transparent" onclick="window.location.href='php/map.php'">Mark a Spot</button>
-      <button type="button" class="btn btn-default btn-transparent" onclick="window.location.href='12.html'" >Let's Help</button>
+      <button type="button" class="btn btn-default btn-transparent">Mark a Spot</button>
+      <button type="button" class="btn btn-default btn-transparent">Let's Help</button>
     </div>
   </div>
-  
 </body>
 </html>
+?>
