@@ -14,7 +14,7 @@ USER STORIES :
 =============
 IN NEED OF HELP :
 
- This set of users can get their location added on the app by clicking on the HIT THE MARK button.
+ This set of users can get their location added on the app by clicking on the MARK A SPOT button.
 Afterwards , after filling the form on the marked location , and clicking the save button , the location will be saved.
 
 POTENTIAL HELPER :
@@ -30,3 +30,7 @@ PRIORITIES :
 also be provided.
 3) VOLUNTEER TO CONNECT : The people interested in becoming the link between those in need of help and the potential helpers can act as volunteers to pick the
 food from helpers and deliver it to needy. ( will be considered in future extension , not included here)
+4) The time during which help can be provided will also be added . there will be two kind of people_in_need -
+a) in temporary help need
+b) in permanent help need like orphanages,old age homes
+For both we are going to have different kind of approach. The mark for first one gonna disappear after the mentioned time while the mark for latter one will be of permanent type
