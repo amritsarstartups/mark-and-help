@@ -34,3 +34,5 @@ food from helpers and deliver it to needy. ( will be considered in future extens
 a) in temporary help need
 b) in permanent help need like orphanages,old age homes
 For both we are going to have different kind of approach. The mark for first one gonna disappear after the mentioned time while the mark for latter one will be of permanent type
+
+slideshare link : https://www.slideshare.net/vandna123/mark-amphelp
